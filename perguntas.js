@@ -27,3 +27,27 @@ criaCartao(
     'meu genero de filme preferido?',
     'terro'
 )
+
+criaCartao(
+    'jogo eletronico',
+    'meu jogo preferido?',
+    'cs2'
+)
+
+criaCartao(
+    'escola',
+    'qual serie estou?',
+    '2 ano do ensino medio'
+)
+
+criaCartao(
+    'matematica',
+    '1+3?',
+    '4'
+)
+
+criaCartao(
+    'filme',
+    'meu genero de filme preferido?',
+    'terro'
+)
