@@ -25,6 +25,4 @@ criaCartao(
     'filme',
     'meu genero de filme preferido',
     'terro'
-
-
 )
