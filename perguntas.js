@@ -51,3 +51,4 @@ criaCartao(
     'meu genero de filme preferido?',
     'terro'
 )
+.cartao.addEventListener('click', viraCartao)
