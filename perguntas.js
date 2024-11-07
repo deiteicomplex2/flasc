@@ -51,11 +51,3 @@ criaCartao(
     'meu genero de filme preferido?',
     'terro'
 )
-let respostaEstaVisivel = false
-function viraCartao(){
-    respostaestaVisivel = !respostaEstaVisivel
-}
-.cartao.active .cartao__conteudo {
-    transform: rotateY(180deg);
-}
-cartao.addEventListener('click', viraCartao)
